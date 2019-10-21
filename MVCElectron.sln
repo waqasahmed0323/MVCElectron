@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCElectron", "MVCElectron.csproj", "{7C9D39E7-9950-4A63-94CF-D70B7BB9219C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C9D39E7-9950-4A63-94CF-D70B7BB9219C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9D39E7-9950-4A63-94CF-D70B7BB9219C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9D39E7-9950-4A63-94CF-D70B7BB9219C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9D39E7-9950-4A63-94CF-D70B7BB9219C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C4FA0E1-1A69-4D17-87F1-3BBE6894882A}
+	EndGlobalSection
+EndGlobal
